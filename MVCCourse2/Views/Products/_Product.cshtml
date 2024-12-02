@@ -1,0 +1,68 @@
+﻿@model MVCCourse2.Models.Product
+@* @model MVCCourse2.ViewModels.ProductViewModel *@
+@{
+    string action = ViewBag.Action ?? string.Empty;
+}
+
+<form method="post" asp-controller="Products" asp-action="@action">
+    @if (action?.ToLower() == "edit")
+    {
+        <input type="hidden" asp-for="ProductId" />
+    }
+
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <div class="mb-3 row">
+        <div class="col-2">
+            <label asp-for="ProductName" class="col-form-label"></label>
+        </div>
+        <div class="col-6">
+            <input type="text" asp-for="ProductName" class="form-control" />
+        </div>
+        <div class="col">
+            <span class="text-danger" asp-validation-for="ProductName"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-2">
+            <label asp-for="CategoryName" class="col-form-label"></label>
+        </div>
+        <div class="col-6">
+            <input type="text" asp-for="CategoryName" class="form-control" />
+        </div>
+        <div class="col">
+            <span class="text-danger" asp-validation-for="CategoryName"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-2">
+            <label asp-for="Price" class="col-form-label"></label>
+        </div>
+        <div class="col-6">
+            <input type="number" asp-for="Price" class="form-control" min="0" step="any" />
+        </div>
+        <div class="col">
+            <span class="text-danger" asp-validation-for="Price"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-2">
+            <label asp-for="ImageUrl" class="col-form-label"></label>
+        </div>
+        <div class="col-6">
+            <input type="text" asp-for="ImageUrl" class="form-control" />
+        </div>
+        <div class="col">
+            <span class="text-danger" asp-validation-for="ImageUrl"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-2">
+            <input type="submit" class="btn btn-primary" value="Save" />
+        </div>
+    </div>
+</form>

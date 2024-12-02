@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVCCourse2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\products\\getpurchasehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\products\\getpurchasehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\models\\purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\models\\purchasehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|d:\\mvccourse2\\mvccourse2\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7187D76-A940-467E-8F38-5D030A4DD952}|MVCCourse2\\MVCCourse2.csproj|solutionrelative:mvccourse2\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:18:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAIoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:59:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:58:43.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:57:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:45:38.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCCourse2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCCourse2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:44:06.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MVCCourse2\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MVCCourse2\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:43:02.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MVCCourse2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MVCCourse2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:43:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPurchaseHistory.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Products\\GetPurchaseHistory.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Products\\GetPurchaseHistory.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Products\\GetPurchaseHistory.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Products\\GetPurchaseHistory.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:05:53.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:00:57.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:01:18.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Models\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "MVCCourse2\\Models\\ProductsRepository.cs",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Models\\ProductsRepository.cs",
+              "RelativeToolTip": "MVCCourse2\\Models\\ProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:53:48.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PurchaseHistory.cs",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Models\\PurchaseHistory.cs",
+              "RelativeDocumentMoniker": "MVCCourse2\\Models\\PurchaseHistory.cs",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Models\\PurchaseHistory.cs",
+              "RelativeToolTip": "MVCCourse2\\Models\\PurchaseHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:57:46.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCCourse2\\Views\\Products\\Add.cshtml",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "MVCCourse2\\Views\\Products\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T07:55:47.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVCCourse2\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\MVCCourse2\\MVCCourse2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVCCourse2\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAIA8wFUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:55:29.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

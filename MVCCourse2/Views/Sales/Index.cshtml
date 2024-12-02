@@ -1,0 +1,184 @@
+﻿@model SalesViewModel
+
+@section title {
+<div class="row">   
+        <div class="col-7"><h3>Cashier's Console</h3></div>
+        <div class="col-2"><label for="cashier">Cashier Name:</label></div>
+        <div class="col-3">
+            @* Display cashier's name here *@
+        </div>
+</div>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+            nav ul li {
+                display: inline;
+                margin: 0 10px;
+            }
+
+                nav ul li a {
+                    color: #fff;
+                    text-decoration: none;
+                }
+
+        .hero {
+            background: url('/images/hero.jpg') no-repeat center center/cover;
+            color: #fff;
+            padding: 100px 20px;
+            text-align: center;
+        }
+
+        .hero-content {
+            max-width: 600px;
+            margin: 0 auto;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .hero h2 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .hero p {
+            font-size: 1.2em;
+        }
+
+        .featured-products {
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        .product-grid {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .product-card {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            width: 200px;
+        }
+
+            .product-card img {
+                max-width: 100%;
+                border-radius: 8px;
+            }
+
+            .product-card h3 {
+                margin: 10px 0;
+                font-size: 1.1em;
+            }
+
+            .product-card p {
+                color: #007BFF;
+                font-size: 1.2em;
+                margin: 5px 0;
+            }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 15px 0;
+        }
+
+        .social-links {
+            list-style: none;
+            padding: 0;
+            margin: 10px 0 0;
+        }
+
+            .social-links li {
+                display: inline;
+                margin: 0 10px;
+            }
+
+            .social-links a {
+                color: #fff;
+                text-decoration: none;
+            }
+    </style>
+    }
+
+
+<div class="row">
+    <div class="col-4">
+        @* Category selection *@
+        <select asp-for="SelectedCategoryId" class="form-control">
+            <option>-Please Select</option>
+                @if (Model.Categories != null && Model.Categories.Count() > 0)
+                {
+                    @foreach (var cat in Model.Categories)
+                    {
+                    <option value="@cat.CategoryId">@cat.Name</option>
+                    }
+                }
+        </select>
+        <br/>
+     <div id="productsPartial">
+        @* Product List *@
+     </div>
+    <br/>
+         <div id="productDetailPartial">
+        @* Product Details *@
+    `    </div>
+    @* Sales Form*@
+    </div>
+     <div class="col">
+        @*List Of Transactions*@
+     </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        $(function(){
+
+            //Handle Category Selection
+            $("#SelectedCategoryId").on("change",function()
+            {
+                $("#productsPartial").load("/products/ProductsByCategoryPartial",{categoryId:$(this).val()});
+            })
+        });
+
+        //handle product selection
+        $("#productsPartial").on('click','.product-row',function()
+        {
+            //highlight the row selected
+            $('.product-row').removeClass('highlight');
+            $(this).addClass('highlight');
+
+            //get the product id from the product-id attribute of the clicked row
+            var productId=$(this).attr('product-id');
+
+            //load the product details in a partial view
+            $('#productDetailsPartial').load("/sales/SellProductPartial",{productId:productId});
+
+
+    </script>
+}
